@@ -1,0 +1,17 @@
+==================================================
+ Raspberry Pi provisioning
+ Started: Tue Nov 24 01:41:09 IST 2026
+==================================================
+[1/5] Updating APT metadata...
+Get:1 https://pkgs.tailscale.com/stable/ubuntu noble InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://ports.ubuntu.com/ubuntu-ports noble InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:5 http://ports.ubuntu.com/ubuntu-ports noble-security InRelease
+Hit:6 https://esm.ubuntu.com/apps/ubuntu noble-apps-security InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:8 https://esm.ubuntu.com/infra/ubuntu noble-infra-security InRelease
+Fetched 6649 B in 1s (5325 B/s)
+Reading package lists...
+[2/5] Installing packages from packages.txt...
+No packages found.
